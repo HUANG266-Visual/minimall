@@ -15,6 +15,7 @@
         <module>minimall-order</module>
         <module>minimall-product</module>
         <module>minimall-ware</module>
+        <module>mall-fast</module>
     </modules>
 
 
